@@ -1,2 +1,2 @@
 # ICRA-quiz
-a simple pendulum
+this is a simple pendulum with python.
